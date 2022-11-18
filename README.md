@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @codingSoul289
-- 👀 I’m interested in FPGA Programming and HDLs, Competitive Programming and Hackathons (in C++), AI/ML/Data Science
-- 🌱 I’m currently learning Verilog HDL (for FPGA) and Python Advanced Courses for Data Analytics
-- 💞️ I have skills in C++ (Basic to Advanced Programming concepts), Python basics, Verilog HDL Basics
+- 👀 Have skills in MERN-stack development and applications of algorithms to real-life problems
+- 👀 I’m interested in Microservices and Dev-Ops tools for deployment of applications
+- 💞️ I have skills in C++ (Basic to Advanced Programming concepts), JAVA, Javascript, NodeJS, Python
+- 💞️ Frameworks and Libraries - Python : Numpy, Matplotlib, RPI, Open-CV ; JS : React, Express
 - 📫 How to reach me - 
      Email Address (Personal) - duttatanmoy834@gmail.com
      LinkedIn Profile Link - https://www.linkedin.com/in/tanmoy-dutta-a079031bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKcV3ewyTTYqPhWNuiK%2Fa9Q%3D%3D
